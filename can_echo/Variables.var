@@ -1,0 +1,3 @@
+VAR
+	canReadWrite : CanReadWrite_typ;
+END_VAR
